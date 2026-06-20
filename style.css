@@ -1,0 +1,120 @@
+.pandas{
+    background-image: url(./assets/images/panda_home2.jpg);
+    height: 550px;
+    margin:0px;
+    padding: 0px;
+    background-size: cover;
+}
+
+
+.text_intro{
+    display: flex;
+    height: 550px;
+    width:100%;
+    flex-direction: column;
+    color: greenyellow;
+    justify-content: center;
+    align-items: center;
+
+}
+.text_intro h1{
+    font-size: 55px;
+}
+.text_intro h2{
+    font-size: 30px;
+
+}
+
+.a_panda{
+    text-align: center;
+}
+.contact{
+    text-align: center;
+}
+
+.a_panda h1{
+    color: greenyellow;
+    font-size: 60px;
+    margin-bottom: 5px;
+    margin-top: 10px;
+}
+
+.contact h1{
+    color: greenyellow;
+    font-size: 40px;
+}
+ h3{
+    color: greenyellow;
+}
+ hr{
+    width: 400px;
+    border-width: 2px;
+    background-color: grey;
+    border-style: dotted;
+}
+
+.skills{
+    display: flex;
+    flex-direction: column;
+}
+.skills h1{
+    color: greenyellow;
+    text-align: center;
+    font-size: 50px;
+}
+.skills h2{
+    margin-top: 40px;
+    color: greenyellow;
+}
+.skills img{
+    float: left;
+    padding: 10px;
+}
+
+.skills1{
+    display: flex;
+    justify-content: center;
+}
+
+.contact a{
+    background-color: greenyellow;
+    color: white;
+    font-size: x-large;
+    border-radius: 10%;
+    padding: 10px;
+    text-decoration: none;
+}
+
+span{
+    background-color: green;
+}
+
+footer{
+    margin-top: 16px;
+    background-color: greenyellow;
+    height: 100px;
+}
+
+footer p{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    padding: 30px;
+    font-size: 20px;
+}
+footer p a{
+    color: white;
+    text-decoration: none;
+}
+
+a:hover{
+    filter: brightness(80%);
+}
+
+p{
+    margin: 0;
+}
+
+#margin{
+    margin-bottom: 16px;
+}
